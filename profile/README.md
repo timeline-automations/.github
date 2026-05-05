@@ -7,7 +7,7 @@ Building tools that eliminate repetitive tasks and make creative pipelines progr
 
 ---
 
-## 🚀 What is this?
+## What is this?
 
 Timeline Automations is an open-source ecosystem focused on **automating editing workflows** across tools like Premiere Pro, After Effects, and beyond.
 
@@ -18,17 +18,17 @@ We believe:
 
 ---
 
-## 🧠 What we're building
+## What we're building
 
-- ⚙️ Timeline manipulation tools  
-- 🤖 Agent-driven editing workflows  
-- 🔌 Integrations with editing software  
-- 🧩 Scriptable editing pipelines  
-- 📦 Reusable automation modules  
+-  Timeline manipulation tools  
+-  Agent-driven editing workflows  
+-  Integrations with editing software  
+-  Scriptable editing pipelines  
+-  Reusable automation modules  
 
 ---
 
-## 🔥 Why this exists
+## Why this exists
 
 Modern editing software is powerful—but still **manual at its core**.
 
@@ -40,29 +40,7 @@ We’re changing that.
 
 ---
 
-## 📦 Projects
-
-Here are some things you might find in this org:
-
-- `premiere-automations` — automate editing workflows in Premiere Pro  
-- `aftereffects-agents` — agent-based automation for AE  
-- `timeline-core` — core logic for timeline operations  
-- `clip-automation` — reusable clip-level automations  
-
----
-
-## 🛠️ Philosophy
-
-We don’t build “AI gimmicks”.
-
-We build:
-- Tools that **save real time**
-- Systems that **scale workflows**
-- Infrastructure that **developers can extend**
-
----
-
-## 🤝 Contributing
+## Contributing
 
 We’re building this in the open.
 
@@ -84,7 +62,7 @@ A future where:
 
 ---
 
-## 🧩 Built for
+## Built for
 
 - Developers  
 - Video editors  
